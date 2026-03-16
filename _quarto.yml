@@ -12,10 +12,12 @@ website:
         file: Projects.qmd
       - text: CV
         file: Academic_CV.pdf
+      - text: "Experience"
+        file: Experience.qmd
+      - text: "Contact"
+        file: "Contact.qmd"
     right:
 
-      - icon: envelope
-        file: cyrusgazdar@outlook.com
       - icon: linkedin
         file: http://www.linkedin.com/in/cyrusgazdar
       - icon: twitter
