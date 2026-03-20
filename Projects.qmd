@@ -4,23 +4,48 @@ Title: "Projects"
 
 Attached below are a few of my select works. Feel free to give any of them a read and reach out if you have any questions.
 
-#### *United We Stand, Divided we Drive: How Highways served as Racial Mechanisms in American Society*
+## Data Visualization
 
-While the end of the American Civil War abolished legal chattel slavery, it only opened the ability for structural racism to take root in new forms. The most commonly cited case of this occuring was manifested in widespread *'Jim Crow Laws'*, which mandated legal segregation in all the former Confederate States and a handful of other throughout the Continenal United States. The racial mobility which followed, however, led to defacto segregation in the North states by viture of suburban culture layered onto discriminatory federal policies. Highways served as an essential force to uphold suburban culture, which, when paired with the method of their construction, had immediate and long-term effects on African American Communities.
-
-[PDF](United We Stand, Divided we Drive.pdf){.btn .btn-primary role="button"}
-
-#### *Satyagraha: A Southern Strategy?*
-
-Mohandas Gandhi and Dr Martin Luther King Jr. are generally seen as two of the greatest examples of non-violent resistence in modern history. Since general perceptions about non-violence group the practice in a homogenous manner, subconsious thinking may lead us to believe their methodologies would be at the very least very similar. With that being said, different contexts and personal philosophies mean that differing approaches are guarenteed. This paper looks at points where the two figures diverge and converge in their approaches to non-violence.
-
-[PDF](Satyagraha A Southern Strategy.pdf){.btn .btn-primary role="button"}
+Over the last year, I've worked on a couple of papers which have relied on empirical findings. This is some of my favourite work, so I hope you like them too!
 
 #### *"I'm Broke and my Government ain't Working!" Finding the Interaction Between Civil War Variables*
 
 As civil wars and intrastate conflicts have become more common over the past half century, important empirical discussions need to be had about the conditions which lead to its onset. Current literature consistently yields GDP per Capita and Political Instability as stedfast variables. This paper replicates Nicholas Sambanis' landmark 2004 model and data set looking for an interactive effect between these two variables. After receiving our findings, the paper also disucsses potential explanations for them, while including important recommendations for future testing and new methods of operationalizing variables which can be used in future tests.
 
 [PDF](GDPINSTA.pdf){.btn .btn-primary role="button"}
+
+**Poster for *"I'm Broke and my Government ain't Working!"***
+![](Photos\UofT Symposium Poster.jpg)
+
+
+## History & Comparative Studies
+Though I mostly work in IR, I also do have some work in the areas of my minor program (history), as well as in the larger political science field of Comparative Studies.
+
+#### *United We Stand, Divided we Drive: How Highways served as Racial Mechanisms in American Society*
+
+While the end of the American Civil War abolished legal chattel slavery, it only opened the ability for structural racism to take root in new forms. The most commonly cited case of this occuring was manifested in widespread *'Jim Crow Laws'*, which mandated legal segregation in all the former Confederate States and a handful of other throughout the Continenal United States. The racial mobility which followed, however, led to defacto segregation in the North states by viture of suburban culture layered onto discriminatory federal policies. Highways served as an essential force to uphold suburban culture, which, when paired with the method of their construction, had immediate and long-term effects on African American Communities.
+
+[PDF](United We Stand, Divided we Drive.pdf){.btn .btn-primary role="button"}
+
+
+#### *Digital Harmonization: the Digital Services Act, the EU, and Digitalized Free Speech* 
+
+The European Union is known for its capabilities in regulating foreign corporations while also setting up common networks between member-states. This paper looks at the *Digital Services Act*: EU legislation which set up harmonized guidelines between member-states in the field of social media regulation. This marks a dramatic break from the markey-based approach that the United States uses. The Act was passed in tandem with the *Digital Market Act*, which mirrors provisions from the DSA. With that said, the "Brussels Effect" is known for curbing free-market policies when dealing with issues that require monetary exchange, making the DMA a digitized extension of preexisting EU values and policies. The DSA differentiates itself by expanding into the dissemination of information itself. This change addresses both the arguments brought up by democratic scholars, while also opening up new understandings of freedom of information within free, democratic societies. Finally, the DSA has contributed to the economic Cold War between the EU's "consumer-based approach" and the United States' "market-based approach"
+
+
+
+[PDF](EUDSA.pdf){.btn .btn-primary role="button"}
+
+
+## Political Theory
+
+As tedious as it is, I have done some work in the area of political theory and philosophy. Most of this work is contemporary, though, and is more or less already aligned with what I study generally.
+
+#### *Satyagraha: A Southern Strategy?*
+
+Mohandas Gandhi and Dr Martin Luther King Jr. are generally seen as two of the greatest examples of non-violent resistence in modern history. Since general perceptions about non-violence group the practice in a homogenous manner, subconsious thinking may lead us to believe their methodologies would be at the very least very similar. With that being said, different contexts and personal philosophies mean that differing approaches are guarenteed. This paper looks at points where the two figures diverge and converge in their approaches to non-violence.
+
+[PDF](Satyagraha A Southern Strategy.pdf){.btn .btn-primary role="button"}
 
 #### *Freed Bondage: How American Liberalism and Slavery Collided in Early American Politics*
 

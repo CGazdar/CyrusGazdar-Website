@@ -2,3 +2,6 @@
 .navbar {
   background-color: #013220 !important;
 }
+strong, b {
+  font-weight: 1000 !important;
+}
