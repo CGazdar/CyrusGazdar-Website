@@ -5,11 +5,11 @@ format: html
 
 ## Comparative Democracy Index
 
-I've been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I've put the links below, but here's some general info on the project:
+I've been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I've put the links below, but here's some general info on the project:
 
 ### Version 1.0
 
-- Over 14,000 observations covering over 180 countries from 1940-2025
+- Over 14,000 observations covering over 200 countries and territories from 1940-2025
 
 - Raw data from all four datasets is scraped and complied here
 
