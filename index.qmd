@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Home"
 ---
 Hey there! I am a graduating student at the University of Toronto Mississauga. My programs of study include Political Science, Historical Studies, & Global Perspectives. My interests and works cover a number of topics within International Relations and contemporary Atlantic History. This includes but is not limited to conflict studies, democratic studies, American history and culture, political theory, and comparative foreign policy.
 
@@ -17,7 +17,7 @@ Masters of Arts in Political Science | Degree Expected 2027
 
 Honours Bachelors of Arts in Political Science | September 2022- June 2026
 
-## Affiliations & Experience
+## Affiliations
 
 Co-founder & Editor (Comparative Politics, Book Reviews), UTM Undergraduate Journal of Political Science.
 

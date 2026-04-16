@@ -9,7 +9,7 @@ I've been working on a dataset that compiles data from four democracy indices: F
 
 ### Version 1.0
 
-- Over 14,000 observations covering over 180 countries from 1940-2025
+- Over 14,000 observations covering over 200 countries and territories from 1940-2025
 
 - Raw data from all four datasets is scraped and complied here
 
