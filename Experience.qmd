@@ -2,4 +2,19 @@
 title: "Experience"
 ---
 
-Not much academic experience to report on yet, hopefully more soon!
+### Research Experience ###
+
+**"Why Gandhi Rejected Violence in Mass Protest"**
+
+Feb-March 2026
+
+Supervisor: *Dr. Jaby Mathew*
+
+Helped plan and run the *Politics of Nonviolence: Traditions, Tensions, and Transformations* workshop as well as the *Why Gandhi Rejected Violence in Mass Protest* lecture seminar
+
+<u>Promotional material for both events:</u>
+
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+  <img src="Photos/Gandhi Poster.jpg" style="width: 200px; height: auto;">
+  <img src="Photos/Non-Violence Poster.jpg" style="width: 200px; height: auto;">
+</div>

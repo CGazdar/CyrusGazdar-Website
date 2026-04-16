@@ -6,7 +6,7 @@ website:
     background: dark
     search: false
     left:
-      - text: "Cyrus Gazdar"
+      - text: "Home"
         file: index.qmd
       - text: Works
         file: Projects.qmd
@@ -14,10 +14,12 @@ website:
         file: Academic_CV.pdf
       - text: "Experience"
         file: Experience.qmd
-      - text: "Contact"
-        file: "Contact.qmd"
+      - text: "Datasets"
+        file: Datasets.qmd
     right:
 
+      - text: "Contact"
+        file: "Contact.qmd"
       - icon: linkedin
         file: http://www.linkedin.com/in/cyrusgazdar
       - icon: twitter
@@ -25,6 +27,8 @@ website:
       - icon: substack
         text: Substack
         file: https://substack.com/@cyrusgazdar
+
+
 format:
   html:
     theme:

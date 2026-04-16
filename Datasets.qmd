@@ -1,0 +1,24 @@
+---
+title: "Projects"
+format: html
+---
+
+## Comparative Democracy Index
+
+I've been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I've put the links below, but here's some general info on the project:
+
+### Version 1.0
+
+- Over 14,000 observations covering over 180 countries from 1940-2025
+
+- Raw data from all four datasets is scraped and complied here
+
+- Data is also standardized into a 0-10 scale
+
+- Z-scores are provided for empirical testing
+
+Below are links to different download files:
+
+[CDI V1.0 CSV Download](CDI v1.0.csv){.btn .btn-primary role="button"}
+
+
