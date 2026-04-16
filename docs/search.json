@@ -53,14 +53,14 @@
     "href": "CDI.html",
     "title": "Datasets",
     "section": "",
-    "text": "I’ve been working on a dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
   },
   {
     "objectID": "CDI.html#compiled-democracy-index",
     "href": "CDI.html#compiled-democracy-index",
     "title": "Datasets",
     "section": "",
-    "text": "I’ve been working on a dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
   },
   {
     "objectID": "Datasets.html",
