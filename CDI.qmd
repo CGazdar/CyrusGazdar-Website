@@ -5,7 +5,7 @@ format: html
 
 ## Compiled Democracy Index
 
-I've been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I've put the links below, but here's some general info on the project:
+I've been working on a dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I've put the links below, but here's some general info on the project:
 
 ### Version 1.0
 
