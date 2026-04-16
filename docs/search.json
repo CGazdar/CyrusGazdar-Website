@@ -11,7 +11,7 @@
     "href": "Projects.html#data-visualization",
     "title": "",
     "section": "Data Visualization",
-    "text": "Data Visualization\nOver the last year, I’ve worked on a couple of papers which have relied on empirical findings. This is some of my favourite work, so I hope you like them too!\n\n“I’m Broke and my Government ain’t Working!” Finding the Interaction Between Civil War Variables\nAs civil wars and intrastate conflicts have become more common over the past half century, important empirical discussions need to be had about the conditions which lead to its onset. Current literature consistently yields GDP per Capita and Political Instability as stedfast variables. This paper replicates Nicholas Sambanis’ landmark 2004 model and data set looking for an interactive effect between these two variables. After receiving our findings, the paper also disucsses potential explanations for them, while including important recommendations for future testing and new methods of operationalizing variables which can be used in future tests.\nPDF\nPoster for “I’m Broke and my Government ain’t Working!”"
+    "text": "Data Visualization\nOver the last year, I’ve worked on a couple of papers which have relied on empirical findings. This is some of my favourite work, so I hope you like them too!\n\n“I’m Broke and my Government ain’t Working!” Finding the Interaction Between Civil War Variables\nAs civil wars and intrastate conflicts have become more common over the past half century, important empirical discussions need to be had about the conditions which lead to its onset. Current literature consistently yields GDP per Capita and Political Instability as stedfast variables. This paper replicates Nicholas Sambanis’ landmark 2004 model and data set looking for an interactive effect between these two variables. After receiving our findings, the paper also disucsses potential explanations for them, while including important recommendations for future testing and new methods of operationalizing variables which can be used in future tests.\nPDF\nPoster for “I’m Broke and my Government ain’t Working!” \n\n\nIsraeli Politics and the Judiciary\nAs many be expected in liberal democracies, the judiciary is particularly important in upholding the rule of lawand protecting civil, economic, and political rights. The case should be the same for Israel. This paper utilizes the Varieties of Democracy dataset to run a series of models to test various roles the judiciary plays in Israeli politics.\nPDF"
   },
   {
     "objectID": "Projects.html#history-comparative-studies",
@@ -32,14 +32,7 @@
     "href": "Experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Not much academic experience to report on yet, hopefully more soon!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Regarding about me"
+    "text": "Research Experience\n“Why Gandhi Rejected Violence in Mass Protest”\nFeb-March 2026\nSupervisor: Dr. Jaby Mathew\nHelped plan and run the Politics of Nonviolence: Traditions, Tensions, and Transformations workshop as well as the Why Gandhi Rejected Violence in Mass Protest lecture seminar\nPromotional material for both events:"
   },
   {
     "objectID": "Contact.html",
@@ -49,11 +42,46 @@
     "text": "Email: cyrusgazdar@outlook.com"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Regarding about me"
+  },
+  {
+    "objectID": "CDI.html",
+    "href": "CDI.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "I’ve been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 180 countries from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+  },
+  {
+    "objectID": "CDI.html#compiled-democracy-index",
+    "href": "CDI.html#compiled-democracy-index",
+    "title": "Datasets",
+    "section": "",
+    "text": "I’ve been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 180 countries from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+  },
+  {
+    "objectID": "Datasets.html",
+    "href": "Datasets.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ve been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 180 countries from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+  },
+  {
+    "objectID": "Datasets.html#comparative-democracy-index",
+    "href": "Datasets.html#comparative-democracy-index",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ve been working on a dataset that complies data from four democracy indices: Freedom House, Variaties of Democracy, Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 180 countries from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "Hey there! I am a graduating student at the University of Toronto Mississauga. My programs of study include Political Science, Historical Studies, & Global Perspectives. My interests and works cover a number of topics within International Relations and contemporary Atlantic History. This includes but is not limited to conflict studies, democratic studies, American history and culture, political theory, and comparative foreign policy.\nMy current project is utilizing multivariate data sets such as the Cross-National Time Series, Varieties of Democracy, and others to more effectively operationalize political instability in empirical studies of civil war.\nOutside of school, I enjoy reading (more politics & history books!), watching tv shows, skating, and watching hockey."
+    "text": "Hey there! I am a graduating student at the University of Toronto Mississauga. My programs of study include Political Science, Historical Studies, & Global Perspectives. My interests and works cover a number of topics within International Relations and contemporary Atlantic History. This includes but is not limited to conflict studies, democratic studies, American history and culture, political theory, and comparative foreign policy.\nMy current project is utilizing multivariate data sets such as the Cross-National Time Series, Varieties of Democracy, and others to more effectively operationalize political instability in empirical studies of civil war. I’m also working on my first dataset: the Compiled Democracy Index.\nOutside of school, I enjoy reading (more politics & history books!), watching tv shows, skating, and watching hockey."
   },
   {
     "objectID": "index.html#education",
@@ -81,6 +109,13 @@
     "href": "index.html#conferences",
     "title": "About me",
     "section": "Conferences",
-    "text": "Conferences\nUnited we Stand, Divided we Drive: How Highways Served as Racial Mechanisms in 20th-Century American Life,” Presenter at the 2025 Prandium Conference, Mississauga, April 7, 2025."
+    "text": "Conferences\nUnited we Stand, Divided we Drive: How Highways Served as Racial Mechanisms in 20th-Century American Life, Presenter at the 2025 Prandium Conference, Mississauga, April 7, 2025."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "About me",
+    "section": "Projects",
+    "text": "Projects\n\nCompiled Democracy Index (March 2026 - Present)\nA dataset that complies raw and scaled data from four major democracy indices. The version 1.0 is made and can be found under the “Datasets” tab, but the codebook and a sample essay testing is still IPR."
   }
 ]
