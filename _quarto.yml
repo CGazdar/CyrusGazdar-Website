@@ -8,14 +8,16 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: Works
-        file: Projects.qmd
       - text: CV
         file: Academic_CV.pdf
       - text: "Experience"
         file: Experience.qmd
+      - text: Works
+        file: Projects.qmd
       - text: "Datasets"
         file: Datasets.qmd
+      - text: "Articles"
+        file: Articles.qmd
     right:
 
       - text: "Contact"
