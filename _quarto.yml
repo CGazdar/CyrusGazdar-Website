@@ -16,8 +16,6 @@ website:
         file: Projects.qmd
       - text: "Datasets"
         file: Datasets.qmd
-      - text: "Articles"
-        file: Articles.qmd
     right:
 
       - text: "Contact"
