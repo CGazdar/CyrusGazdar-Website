@@ -4,11 +4,11 @@ title: "Experience"
 
 ### Research Experience ###
 
-March - June 2026
-
 Project: **Transitional Justice Evaluation Tools** | [TJET Website](https://transitionaljusticedata.org/en/)
 
-Supervisor: *Dr Geoffery Dancy*
+Supervisor: ***Dr Geoffery Dancy***
+
+Date: **March - June 2026**
 
 - Contributed to one of the largest open-source repositories covering international justice
 
@@ -18,11 +18,13 @@ Supervisor: *Dr Geoffery Dancy*
 
 - Scraped through several repositories to find information about court cases and criminal prosecutions
 
-September 2025 - June 2026
+---
 
 Project: **UTM Undergraduate Journal of Political Science**
 
-Supervisor: *Dr Alison Smith*
+Supervisor: ***Dr Alison Smith***
+
+Date: **September 2025 - June 2026**
 
 - Worked in a small team of 5 to set up the first undergraduate political science journal at the University of Toronto Mississauga campus.
 
