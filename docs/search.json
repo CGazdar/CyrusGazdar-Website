@@ -93,16 +93,16 @@
   {
     "objectID": "Datasets.html",
     "href": "Datasets.html",
-    "title": "Projects",
+    "title": "",
     "section": "",
-    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nFull Dataset CDI V1.0 CSV Download"
+    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
   },
   {
     "objectID": "Datasets.html#comparative-democracy-index",
     "href": "Datasets.html#comparative-democracy-index",
-    "title": "Projects",
-    "section": "",
-    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nFull Dataset CDI V1.0 CSV Download"
+    "title": "",
+    "section": "Comparative Democracy Index",
+    "text": "Comparative Democracy Index\nI’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\nVersion 1.0\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nFull Dataset CDI V1.0 CSV Download"
   },
   {
     "objectID": "index.html",
@@ -144,6 +144,27 @@
     "href": "index.html#projects",
     "title": "Home",
     "section": "Projects",
-    "text": "Projects\n\nCompiled Democracy Index (March 2026 - Present)\nA dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the “Datasets” tab."
+    "text": "Projects\n\nForeign Aid-Voting Index (April 2026-Preset)\nThis dataset trys to answer the question how does foreign aid influence state voting alignment with P5 members at the United Nations? The dataset comes with a couple of important variables, and also a series of secondary variables for improved testing. More information, alongside the dataset, can be found under the “Datasets” tab.\n\n\nCompiled Democracy Index (March 2026 - Present)\nA dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the “Datasets” tab."
+  },
+  {
+    "objectID": "Articles.html#professional-blogs",
+    "href": "Articles.html#professional-blogs",
+    "title": "Articles",
+    "section": "Professional Blogs",
+    "text": "Professional Blogs\nFreedom via Authoritarianism? Have Bukele’s Reforms Improved El Salvador?\n[Link]\nOpinion: On 2SLGBTQ+ Rights Canada is Great, But Not Perfect.\n[Link]"
+  },
+  {
+    "objectID": "Datasets.html#foreign-aid-voting-index",
+    "href": "Datasets.html#foreign-aid-voting-index",
+    "title": "",
+    "section": "Foreign Aid-Voting Index",
+    "text": "Foreign Aid-Voting Index\nResearch Question: How does foreign aid influence state voting alignment with P5 members at the United Nations?\n\nVersion 1.0\nThis country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:\n\nUN-Alignment dyad Score for each P5 member and non-P5 states in a given year\nLogged GDP per capita & GDP growth\nLogged total foreign aid\nA series of right-hand, control, and dummy variables\n\nFAVI v 1.0 Download"
+  },
+  {
+    "objectID": "Datasets.html#datasets",
+    "href": "Datasets.html#datasets",
+    "title": "",
+    "section": "",
+    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
   }
 ]

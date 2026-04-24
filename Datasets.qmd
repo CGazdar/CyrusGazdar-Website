@@ -1,7 +1,27 @@
----
-title: "Projects"
-format: html
----
+
+## Datasets
+
+I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I've found online. It's also all quantitative so there's probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn't be fair to charge for it!). I'll also try and make a paper for some of the ones that have research questions, but I'm not too sure about that yet.
+
+## Foreign Aid-Voting Index
+
+Research Question: *How does foreign aid influence state voting alignment with P5 members at the United Nations?*
+
+
+### Prototype
+
+This country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:
+
+- UN-Alignment dyad Score for each P5 member and non-P5 states in a given year
+
+- Logged GDP per capita & GDP growth
+
+- Logged total foreign aid
+
+- A series of right-hand, control, and dummy variables
+
+[FAVI Prototype Download](FAVI prototype.csv){.btn .btn-primary role="button"}
+
 
 ## Comparative Democracy Index
 
