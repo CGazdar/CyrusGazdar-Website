@@ -1,0 +1,23 @@
+---
+title: "Datasets"
+format: html
+---
+
+## Foreign Aid-Voting Index
+
+Research Question: *How does foreign aid influence state voting alignment with P5 members at the United Nations?*
+
+
+### Prototype
+
+This country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:
+
+- UN-Alignment dyad Score for each P5 member and non-P5 states in a given year
+
+- Logged GDP per capita & GDP growth
+
+- Logged total foreign aid
+
+- A series of right-hand, control, and dummy variables
+
+[FAVI Prototype Download](FAVI prototype.csv){.btn .btn-primary role="button"}

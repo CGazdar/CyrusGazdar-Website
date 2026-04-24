@@ -28,18 +28,60 @@
     "text": "Political Theory\nAs tedious as it is, I have done some work in the area of political theory and philosophy. Most of this work is contemporary, though, and is more or less already aligned with what I study generally.\n\nSatyagraha: A Southern Strategy?\nMohandas Gandhi and Dr Martin Luther King Jr. are generally seen as two of the greatest examples of non-violent resistence in modern history. Since general perceptions about non-violence group the practice in a homogenous manner, subconsious thinking may lead us to believe their methodologies would be at the very least very similar. With that being said, different contexts and personal philosophies mean that differing approaches are guarenteed. This paper looks at points where the two figures diverge and converge in their approaches to non-violence.\nPDF\n\n\nFreed Bondage: How American Liberalism and Slavery Collided in Early American Politics\nWhile the American state philosophy of life, liberty, and the pursuit of happiness have remained largely the same since Jefferson’s 1776 Declaration of Independence, the material reality for millions of African Americans did not reflect this due to their status as an enslaved people with no human rights. Fredrick Douglass, a former slave, gave a speech on the Fourth of July of 1852 which called out this irreconcilable difference. The manner in which he did, however, not only called out the hypocracy of American politics and Christianity, but also framed himself and slaves as true patriots of the ideas of 1776.\nPDF"
   },
   {
-    "objectID": "Experience.html",
-    "href": "Experience.html",
-    "title": "Experience",
+    "objectID": "FAVI.html",
+    "href": "FAVI.html",
+    "title": "Datasets",
     "section": "",
-    "text": "Research Experience\nProject: Transitional Justice Evaluation Tools | TJET Website\nSupervisor: Dr Geoffery Dancy\nDate: March - June 2026\n\nContributed to one of the largest open-source repositories covering international justice\nReviewed and logged in over 400 unique cases of domestic prosecutions in Bosnia and Herzegovina\nSifted through over 100 names for further database review\nScraped through several repositories to find information about court cases and criminal prosecutions\n\n\nProject: UTM Undergraduate Journal of Political Science\nSupervisor: Dr Alison Smith\nDate: September 2025 - June 2026\n\nWorked in a small team of 5 to set up the first undergraduate political science journal at the University of Toronto Mississauga campus.\nServed as the editor for submissions and co-reviewer for Comparative Politics & Book Reviews.\nWrote 2 critical book reviews for relevant to journal culture & policies- Established guidelines & journal policies regarding citations & Ai Policies.\nRan presentations in several classes to promote the journal to over 100 students, & outreached to MA students & candidates to serve as peer reviewers.\nMade the website for the first issue, & authored a guidebook on how to continue the website for prospective editors.\n\n\n\nOther Initiatives\nFeb-March 2026\nEvent: “Why Gandhi Rejected Violence in Mass Protest”\nSupervisor: Dr. Jaby Mathew\nHelped plan and run the Politics of Nonviolence: Traditions, Tensions, and Transformations workshop as well as the Why Gandhi Rejected Violence in Mass Protest lecture seminar\nPromotional material for both events:"
+    "text": "Research Question: How does foreign aid influence state voting alignment with P5 members at the United Nations?\n\n\nThis country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:\n\nUN-Alignment dyad Score for each P5 member and non-P5 states in a given year\nLogged GDP per capita & GDP growth\nLogged total foreign aid\nA series of right-hand, control, and dummy variables\n\nFAVI Prototype Download"
   },
   {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact",
+    "objectID": "FAVI.html#foreign-aid-voting-index",
+    "href": "FAVI.html#foreign-aid-voting-index",
+    "title": "Datasets",
     "section": "",
-    "text": "Email: cyrusgazdar@outlook.com"
+    "text": "Research Question: How does foreign aid influence state voting alignment with P5 members at the United Nations?\n\n\nThis country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:\n\nUN-Alignment dyad Score for each P5 member and non-P5 states in a given year\nLogged GDP per capita & GDP growth\nLogged total foreign aid\nA series of right-hand, control, and dummy variables\n\nFAVI Prototype Download"
+  },
+  {
+    "objectID": "Datasets.html",
+    "href": "Datasets.html",
+    "title": "",
+    "section": "",
+    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
+  },
+  {
+    "objectID": "Datasets.html#datasets",
+    "href": "Datasets.html#datasets",
+    "title": "",
+    "section": "",
+    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
+  },
+  {
+    "objectID": "Datasets.html#foreign-aid-voting-index",
+    "href": "Datasets.html#foreign-aid-voting-index",
+    "title": "",
+    "section": "Foreign Aid-Voting Index",
+    "text": "Foreign Aid-Voting Index\nResearch Question: How does foreign aid influence state voting alignment with P5 members at the United Nations?\n\nPrototype\nThis country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:\n\nUN-Alignment dyad Score for each P5 member and non-P5 states in a given year\nLogged GDP per capita & GDP growth\nLogged total foreign aid\nA series of right-hand, control, and dummy variables\n\nFAVI Prototype Download"
+  },
+  {
+    "objectID": "Datasets.html#comparative-democracy-index",
+    "href": "Datasets.html#comparative-democracy-index",
+    "title": "",
+    "section": "Comparative Democracy Index",
+    "text": "Comparative Democracy Index\nI’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\nVersion 1.0\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nFull Dataset CDI V1.0 CSV Download"
+  },
+  {
+    "objectID": "CDI.html",
+    "href": "CDI.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
+  },
+  {
+    "objectID": "CDI.html#compiled-democracy-index",
+    "href": "CDI.html#compiled-democracy-index",
+    "title": "Datasets",
+    "section": "",
+    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
   },
   {
     "objectID": "Articles.html",
@@ -63,46 +105,25 @@
     "text": "Substack Articles\nMy full Substack can be found [Here].\nMoney Talks! Why American cities Are Decaying and What Can Be Done About it.\n[Link]\nThe Most Predictable Suprises: A Follow-Up to Ontario’s Premier Election.\n[Link]\nThe Centre of the World: Russia, Ukraine, and International Liberalism\n[Link]\nThe Neo-Liberal Collapse in Canada: What the Hell Happened?\n[Link]"
   },
   {
-    "objectID": "Articles.html#professional-blog",
-    "href": "Articles.html#professional-blog",
+    "objectID": "Articles.html#professional-blogs",
+    "href": "Articles.html#professional-blogs",
     "title": "Articles",
-    "section": "Professional Blog",
-    "text": "Professional Blog\nFreedom via Authoritarianism? Have Bukele’s Reforms Improved El Salvador?\n[Link]\nOpinion: On 2SLGBTQ+ Rights Canada is Great, But Not Perfect.\n[Link]"
+    "section": "Professional Blogs",
+    "text": "Professional Blogs\nFreedom via Authoritarianism? Have Bukele’s Reforms Improved El Salvador?\n[Link]\nOpinion: On 2SLGBTQ+ Rights Canada is Great, But Not Perfect.\n[Link]"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Regarding about me"
+    "text": "Email: cyrusgazdar@outlook.com"
   },
   {
-    "objectID": "CDI.html",
-    "href": "CDI.html",
-    "title": "Datasets",
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
-  },
-  {
-    "objectID": "CDI.html#compiled-democracy-index",
-    "href": "CDI.html#compiled-democracy-index",
-    "title": "Datasets",
-    "section": "",
-    "text": "I’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\n\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nCDI V1.0 CSV Download"
-  },
-  {
-    "objectID": "Datasets.html",
-    "href": "Datasets.html",
-    "title": "",
-    "section": "",
-    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
-  },
-  {
-    "objectID": "Datasets.html#comparative-democracy-index",
-    "href": "Datasets.html#comparative-democracy-index",
-    "title": "",
-    "section": "Comparative Democracy Index",
-    "text": "Comparative Democracy Index\nI’ve been working on an open-source dataset that compiles data from four democracy indices: Freedom House, Varieties of Democracy, the Polity Project, and the Economist Intelligence Unit. I’ve put the links below, but here’s some general info on the project:\n\nVersion 1.0\n\nOver 14,000 observations covering over 200 countries and territories from 1940-2025\nRaw data from all four datasets is scraped and complied here\nData is also standardized into a 0-10 scale\nZ-scores are provided for empirical testing\n\nBelow are links to different download files:\nFull Dataset CDI V1.0 CSV Download"
+    "text": "Research Experience\nProject: Transitional Justice Evaluation Tools | TJET Website\nSupervisor: Dr Geoffery Dancy\nDate: March - June 2026\n\nContributed to one of the largest open-source repositories covering international justice\nReviewed and logged in over 400 unique cases of domestic prosecutions in Bosnia and Herzegovina\nSifted through over 100 names for further database review\nScraped through several repositories to find information about court cases and criminal prosecutions\n\n\nProject: UTM Undergraduate Journal of Political Science\nSupervisor: Dr Alison Smith\nDate: September 2025 - June 2026\n\nWorked in a small team of 5 to set up the first undergraduate political science journal at the University of Toronto Mississauga campus.\nServed as the editor for submissions and co-reviewer for Comparative Politics & Book Reviews.\nWrote 2 critical book reviews for relevant to journal culture & policies- Established guidelines & journal policies regarding citations & Ai Policies.\nRan presentations in several classes to promote the journal to over 100 students, & outreached to MA students & candidates to serve as peer reviewers.\nMade the website for the first issue, & authored a guidebook on how to continue the website for prospective editors.\n\n\n\nOther Initiatives\nFeb-March 2026\nEvent: “Why Gandhi Rejected Violence in Mass Protest”\nSupervisor: Dr. Jaby Mathew\nHelped plan and run the Politics of Nonviolence: Traditions, Tensions, and Transformations workshop as well as the Why Gandhi Rejected Violence in Mass Protest lecture seminar\nPromotional material for both events:"
   },
   {
     "objectID": "index.html",
@@ -144,27 +165,6 @@
     "href": "index.html#projects",
     "title": "Home",
     "section": "Projects",
-    "text": "Projects\n\nForeign Aid-Voting Index (April 2026-Preset)\nThis dataset trys to answer the question how does foreign aid influence state voting alignment with P5 members at the United Nations? The dataset comes with a couple of important variables, and also a series of secondary variables for improved testing. More information, alongside the dataset, can be found under the “Datasets” tab.\n\n\nCompiled Democracy Index (March 2026 - Present)\nA dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the “Datasets” tab."
-  },
-  {
-    "objectID": "Articles.html#professional-blogs",
-    "href": "Articles.html#professional-blogs",
-    "title": "Articles",
-    "section": "Professional Blogs",
-    "text": "Professional Blogs\nFreedom via Authoritarianism? Have Bukele’s Reforms Improved El Salvador?\n[Link]\nOpinion: On 2SLGBTQ+ Rights Canada is Great, But Not Perfect.\n[Link]"
-  },
-  {
-    "objectID": "Datasets.html#foreign-aid-voting-index",
-    "href": "Datasets.html#foreign-aid-voting-index",
-    "title": "",
-    "section": "Foreign Aid-Voting Index",
-    "text": "Foreign Aid-Voting Index\nResearch Question: How does foreign aid influence state voting alignment with P5 members at the United Nations?\n\nVersion 1.0\nThis country-year dataset covers over 8700 observations and trys to answer this question by adding the following core variables:\n\nUN-Alignment dyad Score for each P5 member and non-P5 states in a given year\nLogged GDP per capita & GDP growth\nLogged total foreign aid\nA series of right-hand, control, and dummy variables\n\nFAVI v 1.0 Download"
-  },
-  {
-    "objectID": "Datasets.html#datasets",
-    "href": "Datasets.html#datasets",
-    "title": "",
-    "section": "",
-    "text": "I have worked on making a couple of datasets to serve my own research interests. None of these are published, and they use more or less only open source data which I’ve found online. It’s also all quantitative so there’s probably some interesting stuff for you to tinker with if you want. Feel free to use any of it for your own uses (I got all this data for free, so I wouldn’t be fair to charge for it!). I’ll also try and make a paper for some of the ones that have research questions, but I’m not too sure about that yet."
+    "text": "Projects\n\nForeign Aid-Voting Index (April 2026-Preset)\nFAVI Download.\nThis dataset trys to answer the question how does foreign aid influence state voting alignment with P5 members at the United Nations? The dataset comes with a couple of important variables, and also a series of secondary variables for improved testing. More information, alongside the dataset, can be found under the “Datasets” tab.\n\n\nCompiled Democracy Index (March 2026 - Present)\nA dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the “Datasets” tab."
   }
 ]

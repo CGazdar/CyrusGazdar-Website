@@ -35,6 +35,8 @@ Prandium Conference**, Mississauga, April 7, 2025.
 
 ### Foreign Aid-Voting Index (April 2026-Preset)
 
+***[FAVI Download](FAVI.qmd)***.
+
 This dataset trys to answer the question *how does foreign aid influence state voting alignment with P5 members at the United Nations?* The dataset comes with a couple of important variables, and also a series of secondary variables for improved testing. More information, alongside the dataset, can be found under the *"Datasets"* tab.
 
 ### Compiled Democracy Index (March 2026 - Present)
