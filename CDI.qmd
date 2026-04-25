@@ -19,5 +19,4 @@ I've been working on an open-source dataset that compiles data from four democra
 
 Below are links to different download files:
 
-[CDI V1.0 CSV Download](CDI v1.0.csv){.btn .btn-primary role="button"}
-
+[Full Dataset](CDI%20V1.0.zip){.btn .btn-primary role="button"} [CDI V1.0 CSV Download](CDI v1.0.csv){.btn .btn-primary role="button"}
