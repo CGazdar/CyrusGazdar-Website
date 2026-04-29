@@ -5,8 +5,6 @@ Hey there! I am a graduating student at the University of Toronto Mississauga. M
 
 <img src="Photos\mefr.jpg" style="width:250px; float:right; margin:10px 15px 10px 0;border:1px solid black;">
 
-Your paragraph starts here and will wrap around the image nicely. Keep writing your text and it will flow along the right side of the image instead of dropping below it.
-
 My current project is utilizing multivariate data sets such as the [*Cross-National Time Series*](https://www.cntsdata.com/), [*Varieties of Democracy*](https://v-dem.net/), and others to more effectively operationalize political instability in empirical studies of civil war. This summer, I'm also working on a couple of datasets this summer for some research I've been interested in that I wasn't able to do during coursework. If you're interested in looking or using any of the data, I have more info about them and their usage in the ***[Datasets](Datasets.qmd)*** tab.
 
 Outside of school, I enjoy reading (more politics & history books!), watching tv shows, skating, and watching hockey.
