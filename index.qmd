@@ -36,14 +36,20 @@ Prandium Conference**, Mississauga, April 7, 2025.
 
 ## Projects
 
-### Foreign Aid-Voting Index (April 2026-Present)
+### UNSCR Quiz Game
 
-***[FAVI Download](FAVI.qmd)***
+I made a game in which the user is presented with a UN Security Council resolution, and has to guess if the resolution passed, and how each P5 nation voted.
+
+***[UNSCR Quiz Game](https://unscr-game-3wkn.vercel.app/)***
+
+### Foreign Aid-Voting Index (April 2026-Present)
 
 This dataset trys to answer the question *how does foreign aid influence state voting alignment with P5 members at the United Nations?* The dataset comes with a couple of important variables, and also a series of secondary variables for improved testing. More information, alongside the dataset, can be found under the *"Datasets"* tab.
 
+***[FAVI Download](FAVI.qmd)***
+
 ### Compiled Democracy Index (March 2026 - Present)
 
-***[CDI Download](CDI.qmd)***
-
 A dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the *"Datasets"* tab.
+
+***[CDI Download](CDI.qmd)***

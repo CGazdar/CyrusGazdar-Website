@@ -16,6 +16,8 @@ website:
         file: Projects.qmd
       - text: "Datasets"
         file: Datasets.qmd
+      - text: UNSCR Quiz Game
+        file: https://unscr-game-3wkn.vercel.app/
     right:
 
       - text: "Contact"
