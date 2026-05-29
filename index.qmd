@@ -53,3 +53,7 @@ This dataset trys to answer the question *how does foreign aid influence state v
 A dataset that complies raw and scaled data from four major democracy indices. The first edition is made and can be found alongside all its suplementary information under the *"Datasets"* tab.
 
 ***[CDI Download](CDI.qmd)***
+
+## Contact
+
+Email: cyrusgazdar@outlook.com
