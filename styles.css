@@ -1,0 +1,17 @@
+/* css styles */
+.navbar {
+  background-color: #013220 !important;
+}
+strong, b {
+  font-weight: 1000 !important;
+}
+
+.project-title1 {
+  font-size: 1.1rem;   /* smaller than default */
+  font-weight: 600;    /* optional tweak */
+}
+
+.project-title2 {
+  font-size: 1.1rem;   /* smaller than default */
+  font-weight: 600;    /* optional tweak */
+}
